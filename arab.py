@@ -64,7 +64,7 @@ weights = []
 for i in range(15):
     weights.append(0)
 
-bias = 7
+bias = 15
 
 
 def proceed(number):
